@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/settsu-aritsuna-utaawase",
  "yomi": "せっつのかみありつなけうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合",
+  "era": "承保2年（1075）8月20日",
+  "author": "主催 源有綱",
+  "desc": "摂津守源有綱の家で催された歌合。風・霧・野花・雁・鹿・恋・松・榊などの題で、通宗・国元らが詠む。"
+ },
  "editions": [
   {
    "pid": "1879502",
